@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @nusati
+- 👋 Hi, I’m Sarawut Nusati @nusati.
 - 👀 I’m interested in Coding.
-- 🌱 I’m currently learning JavaScript and TypeScript
+- 🌱 I’m currently learning JavaScript and TypeScript.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me nusati.j@gmail.com.
 
